@@ -21,7 +21,7 @@ cat > /etc/sing-box/config.json <<EOF
       "listen": "0.0.0.0",
       "listen_port": 2443,
       "method": "2022-blake3-aes-256-gcm",
-      "password": "Sgs0gGqs25Vp6RUHcjk/0xMqE9sdmjss7pcBInlofpA=",
+      "password": "dyL+D3Q+aKKg3HY5lx/kK9KmriWk6i8FXApiT+2H2Zc=",
       "sniff": false
     }
   ],
@@ -29,10 +29,10 @@ cat > /etc/sing-box/config.json <<EOF
     {
       "type": "shadowsocks",
       "tag": "out-ss",
-      "server":"45.77.11.60",
+      "server":"43.230.161.211",
       "server_port": 3443,
       "method": "2022-blake3-aes-256-gcm",
-      "password": "Sgs0gGqs25Vp6RUHcjk/0xMqE9sdmjss7pcBInlofpA="
+      "password": "dyL+D3Q+aKKg3HY5lx/kK9KmriWk6i8FXApiT+2H2Zc="
     }
   ]
 }
